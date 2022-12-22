@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\bin\Debug\net6.0\Simulacro parcialito.exe
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\bin\Debug\net6.0\Simulacro parcialito.deps.json
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\bin\Debug\net6.0\Simulacro parcialito.runtimeconfig.json
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\bin\Debug\net6.0\Simulacro parcialito.dll
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\bin\Debug\net6.0\Simulacro parcialito.pdb
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\obj\Debug\net6.0\Simulacro parcialito.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\obj\Debug\net6.0\Simulacro parcialito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\obj\Debug\net6.0\Simulacro parcialito.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\obj\Debug\net6.0\Simulacro parcialito.AssemblyInfo.cs
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\obj\Debug\net6.0\Simulacro parcialito.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\obj\Debug\net6.0\Simulacro parcialito.dll
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\obj\Debug\net6.0\refint\Simulacro parcialito.dll
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\obj\Debug\net6.0\Simulacro parcialito.pdb
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\obj\Debug\net6.0\Simulacro parcialito.genruntimeconfig.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Parcialitos\Simulacro parcialito\obj\Debug\net6.0\ref\Simulacro parcialito.dll

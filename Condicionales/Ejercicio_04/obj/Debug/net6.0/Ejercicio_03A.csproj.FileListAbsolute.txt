@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\bin\Debug\net6.0\Ejercicio_03A.exe
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\bin\Debug\net6.0\Ejercicio_03A.deps.json
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\bin\Debug\net6.0\Ejercicio_03A.runtimeconfig.json
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\bin\Debug\net6.0\Ejercicio_03A.dll
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\bin\Debug\net6.0\Ejercicio_03A.pdb
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\obj\Debug\net6.0\Ejercicio_03A.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\obj\Debug\net6.0\Ejercicio_03A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\obj\Debug\net6.0\Ejercicio_03A.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\obj\Debug\net6.0\Ejercicio_03A.AssemblyInfo.cs
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\obj\Debug\net6.0\Ejercicio_03A.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\obj\Debug\net6.0\Ejercicio_03A.dll
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\obj\Debug\net6.0\refint\Ejercicio_03A.dll
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\obj\Debug\net6.0\Ejercicio_03A.pdb
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\obj\Debug\net6.0\Ejercicio_03A.genruntimeconfig.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Ejercicio_01\Ejercicio_04\obj\Debug\net6.0\ref\Ejercicio_03A.dll

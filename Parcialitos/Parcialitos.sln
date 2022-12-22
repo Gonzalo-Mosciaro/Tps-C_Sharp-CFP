@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Simulacro_parcialito", "Simulacro parcialito\01_Simulacro_parcialito.csproj", "{635603C3-EDA1-421D-805A-3CC5CEFD47B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_parcialito_estructuras_repetitivas", "02_parcialito_estructuras_repetitivas\02_parcialito_estructuras_repetitivas.csproj", "{C2FAF2DF-5509-47DE-B5E0-FE418174DC15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635603C3-EDA1-421D-805A-3CC5CEFD47B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635603C3-EDA1-421D-805A-3CC5CEFD47B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635603C3-EDA1-421D-805A-3CC5CEFD47B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635603C3-EDA1-421D-805A-3CC5CEFD47B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2FAF2DF-5509-47DE-B5E0-FE418174DC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FAF2DF-5509-47DE-B5E0-FE418174DC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FAF2DF-5509-47DE-B5E0-FE418174DC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FAF2DF-5509-47DE-B5E0-FE418174DC15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D4E239-8E12-4351-B911-C3FA5CC294C3}
+	EndGlobalSection
+EndGlobal

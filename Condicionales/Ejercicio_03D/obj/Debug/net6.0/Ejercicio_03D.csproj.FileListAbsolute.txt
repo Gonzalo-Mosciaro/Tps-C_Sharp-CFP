@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\bin\Debug\net6.0\Ejercicio_03D.exe
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\bin\Debug\net6.0\Ejercicio_03D.deps.json
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\bin\Debug\net6.0\Ejercicio_03D.runtimeconfig.json
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\bin\Debug\net6.0\Ejercicio_03D.dll
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\bin\Debug\net6.0\Ejercicio_03D.pdb
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\obj\Debug\net6.0\Ejercicio_03D.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\obj\Debug\net6.0\Ejercicio_03D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\obj\Debug\net6.0\Ejercicio_03D.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\obj\Debug\net6.0\Ejercicio_03D.AssemblyInfo.cs
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\obj\Debug\net6.0\Ejercicio_03D.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\obj\Debug\net6.0\Ejercicio_03D.dll
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\obj\Debug\net6.0\refint\Ejercicio_03D.dll
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\obj\Debug\net6.0\Ejercicio_03D.pdb
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\obj\Debug\net6.0\Ejercicio_03D.genruntimeconfig.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Condicionales\Ejercicio_03D\obj\Debug\net6.0\ref\Ejercicio_03D.dll

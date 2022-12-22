@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\bin\Debug\net6.0\Ejercicio_17.exe
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\bin\Debug\net6.0\Ejercicio_17.deps.json
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\bin\Debug\net6.0\Ejercicio_17.runtimeconfig.json
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\bin\Debug\net6.0\Ejercicio_17.dll
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\bin\Debug\net6.0\Ejercicio_17.pdb
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.AssemblyInfo.cs
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.dll
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\obj\Debug\net6.0\refint\Ejercicio_17.dll
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.pdb
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.genruntimeconfig.cache
+C:\Users\PC\Desktop\Tps - CFP\C#\Entradas y salidas\Ejercicio_17\obj\Debug\net6.0\ref\Ejercicio_17.dll
